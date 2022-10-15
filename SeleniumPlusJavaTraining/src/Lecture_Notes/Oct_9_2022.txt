@@ -1,0 +1,58 @@
+What is the user of this keyword ?
+**********************************
+   For calling one constructor to another constructor.
+   For calling one method to another method.
+   This keyword is used to differentiate boh local & global variables,when the variables are same.
+   
+2.What do u mean by variable ?
+*****************************
+   Which can store & change the variable.
+   
+   Types of variable - 
+   
+   1. Global Variable - variables are declared inside the class & outside the method, we can use the variables in whole class
+   2. Local Variable - variables are declared inside a method & we can use these variables in that method only where we have 
+   declared it.
+   
+   Note : When local & global variables are same, it will not able to differentiate b/w local & global variables.
+   
+3.Debugging
+************
+    Debugging is the process which we can analyse the code till the code is working fine.
+    For Debugging process users are using Break Point.
+    
+    Break Point - is a point where we can start the execution step-by-step.
+    
+    Types of Break Points - 
+    1.step over - For moving to next line
+    2.step into - For moving inside a section / method
+    3.step return - For moving back.
+  
+4. Oops concepts
+*****************
+    1. Inheritence
+    2. Polymorphysm
+    3. Abstraction
+    4. Encapsulation
+    5. Class & Object
+    
+    1. Inheritence
+    ***************
+       Acquring the properties of parent class to child class means child class object can call Parent variable + 
+       Parent method +child variable +child method.
+       
+       Note : extends is the keyword used for inheritence
+       
+       Definition in terms - Inheritence is a relationship
+       There are two types of relationships
+       1.Has Relationship
+       2.Have Relationship
+       
+    Has Relationship
+    *****************
+      + We can create the object of the class in the another class with same package 
+      + We can create the object of a class in another class in different package
+      + We can create the object of a class of project1 in another class of project2
+      
+    
+    
