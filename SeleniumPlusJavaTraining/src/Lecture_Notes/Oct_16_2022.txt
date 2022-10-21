@@ -1,0 +1,19 @@
+Agenda
+*********
+	1.Jar file Creation
+	2.Implicit & Explicit Datatype Conversion
+	3.Commandline Argument.
+	Scanner class.
+	
+1.Jar File Creation
+********************
+	1.For Jar file creation of project-1 out project must be of type maven.
+	2.There are two ways to convert maven project creation
+	  A.Either can convert java project to maven project
+	  B.or we can create maven project from scartch 
+	3.With the help of maven goals we can create the jar file of this project
+	4.there are two ways to run maven goals
+	  A.Clean -- It will delete what ever inside the target folder
+	  B.package -- It will create Jar file inside the target folder
+	
+	Note : Building jar: G:\Selenium Plus Java Training\Assignments\target\Assignments-0.0.1-SNAPSHOT.jar
